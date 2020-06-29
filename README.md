@@ -1,7 +1,7 @@
 # Mohit
 # project1
 
-![](Screenshot(2).png)
+![](0.jpg)
 
 + kaggle
 + titanic\
