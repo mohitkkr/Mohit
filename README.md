@@ -24,3 +24,6 @@
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
