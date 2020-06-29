@@ -2,6 +2,7 @@
 # project1
 + jseak
 ![](0.jpg)
+![](https://github.com/mohitkkr/Mohit/blob/master/images/Screenshot%20(2).png)
 + kaggle
 + titanic\
 + mnist
