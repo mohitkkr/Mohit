@@ -21,3 +21,6 @@
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
