@@ -18,6 +18,7 @@ Lorem ipsum dolor sit amet.
 
 + line2
 # academics
+:light_rail:
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
