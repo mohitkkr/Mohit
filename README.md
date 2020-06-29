@@ -1,5 +1,8 @@
 # Mohit
 # project1
+
+![](Screenshot(2).png)
+
 + kaggle
 + titanic\
 + mnist
