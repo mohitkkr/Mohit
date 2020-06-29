@@ -16,8 +16,8 @@
 
 
 + line2
-#academics
+# academics
 | class      | board | marks/grade |
-| ----------- | ----------- |
+| ----------- | -----------|  |
 |10     | hbse |97     |
-| Paragraph   | Text        |
+| Paragraph   | Text   |     |
