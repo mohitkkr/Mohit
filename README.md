@@ -17,7 +17,7 @@
 
 + line2
 # academics
-| Syntax      | Description | Test Text     |
+| class     | board | marks   |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
