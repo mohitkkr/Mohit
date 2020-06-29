@@ -17,7 +17,7 @@
 
 + line2
 # academics
-| class      | board | marks/grade |
-| ----------- | -----------|  |
-|10     | hbse |97     |
-| Paragraph   | Text   |     |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
