@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet.
 + line1
 
 ![](hc.jpg)
-
+:sweat_smile:
 
 + line2
 # academics
