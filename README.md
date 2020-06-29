@@ -26,7 +26,5 @@
 - [ ] Contact the media
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
-Lorem ipsum dolor sit amet.
-
-[button url="http://www.google.com"]
+<img src="https://github.com/mohitkkr/Mohit/blob/master/images/Screenshot%20(2).png"
+	title="A cute kitten" width="150" height="100" />
