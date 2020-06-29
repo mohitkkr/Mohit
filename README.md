@@ -4,8 +4,9 @@
 1. first
 2. second
 3.  --- middle
-![](https://github.com/mohitkkr/Mohit/blob/master/images/Screenshot%20(2).png)
-+ kaggle
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
 + titanic\                         ![](0.jpg)
 + mnist
 + regression
