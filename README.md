@@ -2,7 +2,6 @@
 # project1
 
 ![](0.jpg)
-
 + kaggle
 + titanic\
 + mnist
