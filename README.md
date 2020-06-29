@@ -1,6 +1,6 @@
 # Mohit
 # project1
-+jseak
++ jseak
 ![](0.jpg)
 + kaggle
 + titanic\
