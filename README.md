@@ -27,3 +27,6 @@
 Lorem ipsum dolor sit amet.
 
 [Click me](http://www.google.com){: .btn}
+Lorem ipsum dolor sit amet.
+
+[button url="http://www.google.com"]
