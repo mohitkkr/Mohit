@@ -1,7 +1,6 @@
-# Mohit                                                                             <img src="<img src="/media/2018/08/kitten.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+# Mohit                                                                            
 
+<img src="https://github.com/mohitkkr/Mohit/blob/master/images/WhatsApp%20Image%202020-06-29%20at%2011.38.12%20PM%20(1).jpeg" width="150" height="100" />
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 + titanic\                         ![](0.jpg)
