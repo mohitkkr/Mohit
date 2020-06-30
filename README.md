@@ -10,7 +10,7 @@ Email:-mohitnitkkr0498@gmail.com
 ---
 **I am a  Date Scientist with a passion for technology.I want to impart value with my work in society and enjoy the journey of doing it.**
 
-**Please see my [blog](https://www.blogger.com/blogger.g?blogID=5904851784065348461#allposts) to know about my hobbies and other then technical work.
+**Please see my [blog](https://www.blogger.com/blogger.g?blogID=5904851784065348461#allposts) to know about my hobbies and other then technical work.**
 ### Skills
 ---
 - Python,C
@@ -30,7 +30,7 @@ Email:-mohitnitkkr0498@gmail.com
 
 # Projects
 ---
-**To know in detail about projects and see the codes behind them please visit my github account(link given below)
+**To know in detail about projects and see the codes behind them please visit my github account(link given below)**
 1. MNIST Digit Recognition
 2. Titanic Prediction
 3. House price prediction
