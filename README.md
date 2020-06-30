@@ -1,10 +1,7 @@
-# Mohit
-# project1
-+ jseak
-1. *first*
-2. second
-3.  --- middle
-Lorem ipsum dolor sit amet.
+# Mohit                                                                             <img src="<img src="/media/2018/08/kitten.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
+
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 + titanic\                         ![](0.jpg)
