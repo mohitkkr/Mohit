@@ -10,7 +10,7 @@ Email:-mohitnitkkr0498@gmail.com
 ---
 **I am a  Date Scientist with a passion for technology.I want to impart value with my work in society and enjoy the journey of doing it.**
 
-**To know more about my life,hobbies or anything other then technical work please visit my blog(Link of which is given below in Links section)
+**To know more about my life,hobbies or anything other then technical work please visit my blog(Link of which is given below in Links section).
 ### Skills
 ---
 - Python,C
