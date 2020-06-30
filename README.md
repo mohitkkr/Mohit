@@ -8,7 +8,7 @@ Email:-mohitnitkkr0498@gmail.com
 
 ## About me
 ---
-**I am a  Date Scientist with a passion for technologies.I want to impart value with my work in society and enjoy the journey of doing it.**
+**I am a  Date Scientist with a passion for technology.I want to impart value with my work in society and enjoy the journey of doing it.**
 
 ### Skills
 ---
@@ -18,7 +18,7 @@ Email:-mohitnitkkr0498@gmail.com
 - D.B.M.S,S.Q.L
 - Statistics 
 - Algorithms and Data Structure
-
+- git
 ## Education
 ---
 - B.Tech from N.I.T Kurukshetra in Mechanical Engineering
@@ -33,7 +33,7 @@ Email:-mohitnitkkr0498@gmail.com
 3. House price prediction
 4. Face recognition with keras
 
-### Certifications and credentials
+### Certifications and Credentials
 - Python for Machine Learning by E&ICT deptt IIT Roorkee
 - Data Science Foundation by LinkedIn Learning
 - S.Q.L Essentials by LinkedIn Learning
