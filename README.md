@@ -8,7 +8,7 @@ Email:-mohitnitkkr0498@gmail.com
 
 ## About me
 ---
-**I am a  Date Scientist with a passion for technology.I want to impart value with my work in society and enjoy the journey of doing it.**
+**I am a  Data Scientist with a passion for technology.I want to impart value with my work in society and enjoy the journey of doing it.**
 
 **Please see my [blog](https://www.blogger.com/blogger.g?blogID=5904851784065348461#allposts) to know about my hobbies and other then technical work.**
 ### Skills
