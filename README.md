@@ -25,7 +25,7 @@ Email:-mohitnitkkr0498@gmail.com
 - B.Tech from N.I.T Kurukshetra in Mechanical Engineering
 ## Internship
 ---
-1. Summer Internship at Ragiv Gandhi Thermal Power Plant,Hisar
+1. Summer Internship at Rajiv Gandhi Thermal Power Plant,Hisar
 2. Summer Internship at  Thermal Power Plant,Panipat
 
 # Projects
