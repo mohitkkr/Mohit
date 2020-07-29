@@ -16,6 +16,7 @@ Email:-mohitnitkkr0498@gmail.com
 - Python,C
 - M.L
 - Data scraping and Cleaning
+- Hadoop and Big Data
 - D.B.M.S,S.Q.L
 - Statistics 
 - Algorithms and Data Structure
@@ -38,6 +39,7 @@ Email:-mohitnitkkr0498@gmail.com
 
 ### Certifications and Credentials
 - Python for Machine Learning by E&ICT deptt IIT Roorkee
+- Hadoop Admintration and Hadoop programmer badge by IBM
 - Data Science Foundation by LinkedIn Learning
 - S.Q.L Essentials by LinkedIn Learning
 - Intermediate data importing by DataCamp
