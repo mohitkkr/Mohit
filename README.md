@@ -18,6 +18,7 @@ Email:-mohitnitkkr0498@gmail.com
 - Data scraping and Cleaning
 - Hadoop and Big Data
 - D.B.M.S,S.Q.L
+- Hadoop ,Spark
 - Statistics 
 - Algorithms and Data Structure
 - git
