@@ -30,6 +30,10 @@ Email:-mohitnitkkr0498@gmail.com
 1. Summer Internship at Rajiv Gandhi Thermal Power Plant,Hisar
 2. Summer Internship at  Thermal Power Plant,Panipat
 
+## Extra-Curricular 
+---
+1.Volunteer work of campaigning for using gender neutral language in NIT Kurukshetra via Equall society.
+
 # Projects
 ---
 **To know in detail about projects and see the codes behind them please visit my github account(link given below)**
