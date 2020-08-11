@@ -33,6 +33,7 @@ Email:-mohitnitkkr0498@gmail.com
 ## Extra-Curricular 
 ---
 1.Volunteer work of campaigning for using gender neutral language in NIT Kurukshetra via Equall society.
+2.Member of NIT Kurukshetra Kabaddi team and participated in various tournaments.
 
 # Projects
 ---
