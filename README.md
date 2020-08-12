@@ -13,13 +13,12 @@ Email:-mohitnitkkr0498@gmail.com
 **Please visit my [blog](https://www.blogger.com/blogger.g?blogID=5904851784065348461#allposts) to know about my hobbies and other then technical work.**
 ### Skills
 ---
-- Python,C
-- M.L
+- Python,C,MATLAB
+- M.L, Statistics
 - Data scraping and Cleaning
 - Hadoop and Big Data
 - D.B.M.S,S.Q.L
 - Hadoop ,Spark
-- Statistics 
 - Algorithms and Data Structure
 - git
 ## Education
