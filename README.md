@@ -1,5 +1,4 @@
 # Mohit                                                                           
-<img src="dp.jpeg" alt="Kitten" width="150" height="150" />
 
 
 **Contacts:-**
