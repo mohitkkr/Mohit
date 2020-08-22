@@ -10,7 +10,7 @@ Email:-mohitnitkkr0498@gmail.com
 ---
 **I am a  Data Scientist with a passion for technology.I want to impart value with my work in society and enjoy the journey of doing it.**
 
-**Please visit my [blog](https://www.blogger.com/blogger.g?blogID=5904851784065348461#allposts) to know about my hobbies and other then technical work.**
+**Please visit my [blog](https://www.blogger.com/blogger.g?blogID=5904851784065348461#allposts).**
 ### Skills
 ---
 - Python,C,MATLAB
